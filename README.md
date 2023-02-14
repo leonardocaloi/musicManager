@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Music Manager</title>
-</head>
 <body>
 	<h1>Music Manager</h1>
 	<p>Este é um programa simples de gerenciamento de músicas em Python. Ele permite que você adicione músicas a uma lista de reprodução, pesquise por músicas por título ou ano de lançamento, e crie uma lista de reprodução aleatória a partir das músicas cadastradas.</p>
